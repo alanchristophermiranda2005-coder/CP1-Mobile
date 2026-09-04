@@ -1,5 +1,5 @@
 # cpflutter
-Integrante: Alan Christophe Gonzaga Miranda
+Integrante: Alan Christopher Gonzaga Miranda
 
 A new Flutter project.
 
